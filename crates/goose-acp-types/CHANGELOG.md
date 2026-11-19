@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0-alpha.15](https://github.com/thesteve0/goose/releases/tag/oi-kit-v0.1.0-alpha.15) - 2026-11-19
+
+### Other
+
+- move final output operation and tool to goose-agent ([#13639](https://github.com/thesteve0/goose/pull/13639))
+- rename GDK to oi-kit (Open Intelligence Kit) ([#13447](https://github.com/thesteve0/goose/pull/13447))
+
 ## [0.1.0-alpha.14](https://github.com/aaif-goose/goose/compare/gdk-v0.1.0-alpha.13...gdk-v0.1.0-alpha.14) - 2026-11-16
 
 ### Added
